@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Lovecraft bestiary app — generated artifacts
+data/*.duckdb
+outputs/
+.chainlit/
+.files/
+chainlit.md
